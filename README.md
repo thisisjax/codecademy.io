@@ -1,2 +1,2 @@
-# codecademy.io
+# github.io
 learning projects
